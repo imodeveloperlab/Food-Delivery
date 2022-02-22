@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="Content/Images/FoodDelivery.png" max-width="100%" alt="Splash" />
+    <img src="Content/Images/FoodDelivery.jpg" max-width="100%" alt="Splash" />
 </p>
 
 <p align="center">
