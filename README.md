@@ -1,7 +1,7 @@
 # Food-Delivery
 
 <p align="center">
-    <img src="Content/Images/FoodDelivery.png" width="528" max-width="90%" alt="Splash" />
+    <img src="Content/Images/FoodDelivery.png" max-width="100%" alt="Splash" />
 </p>
 
 <p align="center">
